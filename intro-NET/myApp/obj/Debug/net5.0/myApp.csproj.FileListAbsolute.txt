@@ -1,0 +1,16 @@
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\bin\Debug\net5.0\myApp.exe
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\bin\Debug\net5.0\myApp.deps.json
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\bin\Debug\net5.0\myApp.runtimeconfig.json
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\bin\Debug\net5.0\myApp.dll
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\bin\Debug\net5.0\ref\myApp.dll
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\bin\Debug\net5.0\myApp.pdb
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\obj\Debug\net5.0\myApp.csproj.AssemblyReference.cache
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\obj\Debug\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\obj\Debug\net5.0\myApp.AssemblyInfo.cs
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\obj\Debug\net5.0\myApp.csproj.CoreCompileInputs.cache
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\obj\Debug\net5.0\myApp.dll
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\obj\Debug\net5.0\ref\myApp.dll
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\obj\Debug\net5.0\myApp.pdb
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\intro-NET\myApp\obj\Debug\net5.0\myApp.genruntimeconfig.cache
