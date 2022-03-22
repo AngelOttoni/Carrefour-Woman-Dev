@@ -1,0 +1,13 @@
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\obj\Debug\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
+C:\Tech-AMO\dio\Carrefour-Woman-Dev\dotNET\myApp\obj\Debug\netcoreapp3.1\myApp.genruntimeconfig.cache
